@@ -1,3 +1,4 @@
+
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
@@ -163,6 +164,7 @@ Emoji:
 :mask:
 # INFORMATION #
 
-    NAME: Pattanachai Nuyamang
+    NAME :  PHACHARANAN THUMJAIKUL
 
-    STUDENT ID: 642115027
+    STUDENT ID :  642115026
+
