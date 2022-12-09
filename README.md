@@ -164,7 +164,13 @@ Emoji:
 :mask:
 # INFORMATION #
 
+
     NAME :  PHACHARANAN THUMJAIKUL
 
     STUDENT ID :  642115026
+
+
+    NAME: Pattanachai Nuyamang
+
+    STUDENT ID: 642115027
 
